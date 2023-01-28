@@ -6,8 +6,6 @@ prog <- function(x){
   min <- min(x),
   max <- max(x),
   sum <- sum(x),
-  mean <- mean(x)
-  median <- median(x)
-  )
-
+  median <- median(x),
+  mean <- mean(x))
 }
